@@ -8,7 +8,7 @@
   </em>
 </p>
 
-- 💼 BackEnd Engineer at [Platform Builders](https://platformbuilders.io/)
+- 💼 BackEnd Engineer at [Instituto Tecgraf/PUC-Rio](https://www.tecgraf.puc-rio.br/)
 
 - 🌱 I'm currently learning Google Cloud Platform, Docker, Kubernets.
 
