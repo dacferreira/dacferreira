@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I'm 32 years old, I'm from Rio de Janeiro and I'm on a journey to become a better developer.
+    I'm 34 years old, I'm from Rio de Janeiro and I'm on a journey to become a better developer.
   </em>
 </p>
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/dacferreira/dacferreira/issues)
 
-### 📊 Goals 2022:
+### 📊 Goals 2026:
 
 - 📂 Expand my portfolio
 
